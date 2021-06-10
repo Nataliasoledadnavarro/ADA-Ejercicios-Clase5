@@ -1,0 +1,66 @@
+
+.argentina{width: 300px;height: 200px;
+        box-sizing: border-box; }
+
+    .franjaceleste{background-color: rgb(99, 208, 223);
+    width: 300px; height: 66px;}
+
+    .franjablanca{background-color: white);
+        width: 300px; height: 66px}
+
+.hungary{width: 300px; 
+        height: 200px;}
+        
+    .roja{background-color: red; width: 300px; height: 66px;}    
+    
+    .verde{background-color: green; width: 300px; height: 66px;}
+
+
+ 
+.europe{background-color: blue; 
+    width: 300px; 
+    height: 200px;}
+
+.guinea{width: 300px;height: 200px;
+    box-sizing: border-box; }
+
+.franjaroja{background-color: red;
+    width: 90px; height: 200px; display: inline-block;}
+
+.franjaamarilla{background-color: yellow;
+        width: 90px; height: 200px; display: inline-block; }
+
+.franjaverde{background-color:green;
+            width: 90px; height: 200px; display: inline-block;  }
+
+.yemen{width: 300px;height: 200px;
+        box-sizing: border-box; }      
+
+.franjanegra{background-color:black;
+                width: 300px; height: 66px;}     
+
+.azul{background-color: blue;
+    width: 300px; height: 66px;}
+                
+.amarilla{background-color: yellow;
+        width: 300px; height: 66px}    
+        
+.palau{background-color: rgb(113, 188, 212); 
+            width: 300px; 
+            height: 200px;}       
+
+.circulo{background-color: yellow; 
+        width: 130px;
+        height: 130px;
+        border-radius: 100px;
+        margin-left: 20px; margin-top: 20px;
+        }
+
+section{ display: inline-block;
+         margin-left: 5px;
+        margin-right: 5px;
+        margin-top: 5px;}
+
+    
+
+

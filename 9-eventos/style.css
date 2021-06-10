@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    color:rgb(66, 64, 64);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    section{ width: 600px;
+    height: 800px;
+margin-top: 100px;
+margin-left: 400px;}
+
+h1{color:rgb(66, 64, 64); font-weight: 900; font-size: 40px;}
+
+.button{ display: inline-block; 
+        padding: 5px;}
+
+.todos{background-color: rgb(66, 64, 64);
+color:white; border-radius: 5px;}
+
+.cancelado{color: fuchsia;
+          }
+
+p{ margin-top: 30px;
+    margin-bottom: 20px; color: gray;}
+
+a{text-decoration: none; color: blue;}
+
+h1,a,.button,.cancelado,.todos{ margin-top: 20px; 
+                                margin-bottom: 20px;}

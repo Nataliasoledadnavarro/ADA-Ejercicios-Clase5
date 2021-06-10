@@ -1,0 +1,16 @@
+body{background-color: rgb(131, 231, 190);}
+
+div{width: 310px; 
+    height: 356px; 
+    background-color: white;
+    margin: 100px; 
+    margin-left: 500px;
+    text-align: center;
+    border-radius: 10px;
+    font-family:sans-serif }
+
+h1{padding-top: 30px;}
+
+p{padding-top: 7px; padding-bottom: 7px; margin-top: 10px;}
+
+.consigna{font-size: 16px; color: rgb(88, 85, 85); padding-left: 50px; padding-right: 50px;}

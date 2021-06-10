@@ -1,0 +1,22 @@
+div{ width: 400px;
+    height: 400px; 
+    background-color: white;
+margin-top: 100px;
+margin-left: 500px;}
+
+body{background-color: palevioletred;}
+
+img{ width: 80px;
+    height: 80px;
+   margin-left: 30px;
+   margin-top: 30px;}
+
+h2, p{margin-left: 30px;}
+
+a{color: blue; text-decoration: none;}
+
+boton{background-color: rgb(57, 131, 173);
+padding: 10px;
+margin-left: 30px;
+color: white}
+

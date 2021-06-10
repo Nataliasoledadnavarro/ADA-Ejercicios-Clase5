@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Mono", monospace;
+  }
+  body {
+    background-color: #eae7fb;
+  }
+  p {
+    font-weight:bold;
+    font-size: 14px;
+    margin-bottom: 20px
+    ;
+  }
+  .card {
+    background-color: white;
+    width: 351px;
+    height: 297px;
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-right: 52px;
+    padding-left: 52px;
+    padding-bottom: 60px;
+    margin-top: 200px;
+    margin-left: auto;
+    margin-right: auto; 
+  box-shadow: 0 4px 8px lightslategray;}
+   
+
+  .button {
+    border: 1px lightgrey;
+    display: inline-block;
+    padding: 7px;
+    color: blueviolet;
+    font-size: 12px;
+    font-weight: 400;
+    border-radius: 3px;
+    margin-left: 4px;
+    margin-right: 4px;
+    margin-top: 5px;
+  }
+  .boton-fondo {
+    background-color: blueviolet;
+    color: white;
+  }
+  .boton-continue {
+    width: 100%;
+    margin-top: 25px;
+    padding-left: 40%;
+  padding-top: 5px;
+  padding-bottom: 5px;}
+  
